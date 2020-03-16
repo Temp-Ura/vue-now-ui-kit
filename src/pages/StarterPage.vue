@@ -113,7 +113,7 @@ export default {
       
       float: left;
       width: 200px;
-      height: ;
+      height: 200px;
       margin-right: 20px;
       border: 5px solid #259B92;
     }
