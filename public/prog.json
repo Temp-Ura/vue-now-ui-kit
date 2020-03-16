@@ -1,0 +1,20 @@
+[
+  {
+    "orario inizio": "13:00",
+    "orario fine": "13:30",
+    "titolo": "Roba Bella",
+    "interviene": "Tizio Caio",
+    "modera": "Giovanni",
+    "intro": "Parliamo di roba bella perchè è importante",
+    "immagine": "foto-lucrezia-ercoli.jpg"
+  },
+  {
+    "orario inizio": "13:30",
+    "orario fine": "14:00",
+    "titolo": "Cose Importanti",
+    "interviene": "Paolo Bianchi",
+    "modera": "",
+    "intro": "",
+    "immagine": "foto-lucrezia-ercoli.jpg"
+  }
+]
