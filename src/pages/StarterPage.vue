@@ -12,7 +12,7 @@
           28 Marzo
       </h2>-->
       <div id="manif">
-        <iframe class="video" src="https://www.youtube.com/embed/05A9axDrWeY?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <!--<iframe class="video" src="https://www.youtube.com/embed/05A9axDrWeY?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
       </div>
       <div class="programma" >
         <h2 id="tito"> PROGRAMMA </h2>
