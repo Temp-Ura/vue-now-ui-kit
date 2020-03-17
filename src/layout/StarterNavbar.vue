@@ -1,9 +1,12 @@
 <template>
   <navbar position="fixed" type="primary"   menu-classes="ml-auto">
     <template>
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" to="#">
         PRENDIAMOLA CON FILOSOFIA 
       </a>
+      <!--<a class="navbar-brand" href="#">
+        
+      </a>-->
       <!--<el-popover
         ref="popover1"
         popper-class="popover"
